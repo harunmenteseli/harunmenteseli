@@ -5,3 +5,4 @@ $ cat bio.sh
 > Current Activity: Debugging a code that worked yesterday without any changes.
 > Specialty: "Localde çalışıyordu abi" (It worked on my machine)
 > Motto: "If it ain't broken, don't fix it. If it is broken, blame the cache."
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME%20TO%20MY%20MATRIX&fontSize=40&animation=twinkling)
